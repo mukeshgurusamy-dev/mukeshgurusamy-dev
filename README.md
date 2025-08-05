@@ -16,7 +16,7 @@
 - 🔭 Currently learning **Advanced JavaScript**
 - 👨‍💻 Everything I’ve learned so far — and will continue to learn — is from [**Mosh Hamedani’s courses**](https://codewithmosh.com/courses) and other experienced developers
 - 🎯 Goal: Become a **Senior Front-End Developer**
-- 👨🏻‍🎓 Final-year **B.Sc. Computer Science** student at [**Vivekanandha College**](https://rkmvc.ac.in/)
+- 👨🏻‍🎓 Final-year **B.Sc. Computer Science** student at [**Vivekananda College**](https://rkmvc.ac.in/)
 - 👎 I avoid outdated, theory-heavy topics — I prefer building projects and solving real problems
 - 🙏 I believe knowledge becomes powerful only when applied — so I turn every concept into a project, no matter how small
 - 💡 *Learning by building* — real-world projects shape real skills
