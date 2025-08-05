@@ -55,7 +55,7 @@
 
 | Project               | Description                               | Tech Used                |
 |------------------------|-------------------------------------------|--------------------------|
-| **Moshified**          | A modern, responsive website              | HTML, CSS, Media Queries |
+| **Moshified**          | A modern, responsive website              | HTML, CSS, Js, Media Queries |
 | **Weather App** *(Coming Soon)* | Real-time weather app using API   | HTML, CSS, JS, REST API  |
 
 
