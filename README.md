@@ -1,9 +1,8 @@
-
 ### Hi 👋 I'm Mukesh Gurusamy
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Front-End+Developer;Skilled+in+HTML%2C+CSS%2C+JavaScript;Learning+by+building+real+projects)
 
-**👨‍💻 Learning from real mentors, building real projects, and aiming for real impact — and making a difference.**
+**👨‍💻 Learning from real mentors, building real projects, and making a real difference.**
 
 ---
 
@@ -13,12 +12,12 @@
 
 
 - 🚀 Proud student of [**Mosh Hamedani**](https://www.codewithmosh.com)
-- 🎓 Skilled in **HTML**, **CSS**, and **Responsive Web Design** through real-world projects
+- 🎓 Skilled in **HTML5**, **CSS3**, and **Responsive Web Design** through real-world projects
 - 🔭 Currently learning **JavaScript**
 - 👨‍💻 Everything I’ve learned so far — and will continue to learn — is from [**Mosh Hamedani’s courses**](https://codewithmosh.com/courses) and other experienced developers
 - 🎯 Goal: Become a **Senior Front-End Developer**
 - 👨🏻‍🎓 Final-year **B.Sc. Computer Science** student at [**Vivekanandha College**](https://rkmvc.ac.in/)
-- 👎 I avoid outdated, theory-heavy topics — I prefer building real projects and solving real problems
+- 👎 I avoid outdated, theory-heavy topics — I prefer building projects and solving real problems
 - 🙏 I believe knowledge becomes powerful only when applied — so I turn every concept into a project, no matter how small
 - 💡 *Learning by building* — real-world projects shape real skills
 
@@ -26,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-**Skilled-in**  
+**Skilled in**  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -68,8 +67,6 @@
 - ✉️ Email: mukeshgurusamy.dev@gmail.com
 
 > **“The only way forward is to build — real skills, real projects, real progress.”**
-
-
 
 
 
