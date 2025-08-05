@@ -12,7 +12,7 @@
 
 
 - 🚀 Proud student of [**Mosh Hamedani**](https://www.codewithmosh.com)
-- 🎓 Skilled in **HTML5**, **CSS3**, and **Responsive Web Design** through real-world projects
+- 🎓 Skilled in **HTML5**, **CSS3**, **JavaScript** and **Responsive Web Design** through real-world projects
 - 🔭 Currently learning **JavaScript**
 - 👨‍💻 Everything I’ve learned so far — and will continue to learn — is from [**Mosh Hamedani’s courses**](https://codewithmosh.com/courses) and other experienced developers
 - 🎯 Goal: Become a **Senior Front-End Developer**
