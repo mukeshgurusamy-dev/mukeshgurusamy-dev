@@ -56,7 +56,7 @@
 | Project       | Description                  | Tech Used                   | Live Site |
 |---------------|------------------------------|-----------------------------|:---------:|
 | **Moshified** | A modern, responsive website | HTML, CSS, JS, Media Queries | [![Click here](https://img.shields.io/badge/Click%20here-0969da?style=flat-square&logoColor=white)](https://mukeshdev-cloudhost.netlify.app/) |
-| **Weather App** *(Coming Soon)* | Real-time weather app using API | HTML, CSS, JS, REST API | ⏳ Coming soon... |
+| **Weather App** *(Coming Soon)* | Real-time weather app using API | HTML, CSS, JS, REST API | [![Click here](https://img.shields.io/badge/Click%20here-0969da?style=flat-square&logoColor=white)](https://nowcastweathery.netlify.app/)  |
 
 
 
